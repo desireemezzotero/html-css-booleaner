@@ -1,0 +1,53 @@
+header {background-color: RGB(77 161 255);
+  background-image: url(/img/pattern.png);
+  background-size: 25%;
+  background-position: 70px 0px;
+}
+
+.logo {width: 250px;
+margin-top: 25%;
+margin-bottom: 10px;}
+
+.sotto-autore {
+  color: gray;
+  margin-top: -20px;
+  font-size: 10px;
+}
+
+.autore-due{ color:rgb(77,161,255);}
+
+.date {margin-top: -10px;}
+
+.sottotitoli {margin-top: -10px;
+font-size: 10px;}
+
+.giallo {background-color: yellow;}
+
+.list {list-style-type: none;
+  margin: 0;
+  padding: 0s}
+
+.tab
+{style:
+  border-collapse: collapse;
+  width: 100%;} 
+
+.table-header {
+    background-color: #3b9ae1;
+  }
+  
+.table-header-text {
+    color: white;
+    width: 25%;
+    text-align: left;
+  }
+  
+.table-row {
+    background-color: lightblue;
+  }
+  
+.table-center {
+    background-color: white;
+  }
+
+}
